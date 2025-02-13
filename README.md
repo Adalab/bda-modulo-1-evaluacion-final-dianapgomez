@@ -11,3 +11,4 @@ Los diferentes módulos del programa ejecutan funciones para:
 - Agregar una base de datos de clientes con un mail
 - Ver la base de datos de clientes 
 - Hacer el proceso completo de selección de un producto y su cantidad y comprobar el pedido en el carrito, incluyendo la cantidad total.
+- Introducir el pago de la compra
